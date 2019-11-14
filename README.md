@@ -1,4 +1,4 @@
-<p>Through a code meet up, we made a React Hook app that toggles between a user's Github repos. I used mine and the code lead for the meet up.</p>
+<p>Through a code meet up, we made a React Hook app that toggles between a users showing their Github repos. I used mine and the code lead for the meet up.</p>
 
 <p><strong>To run locally</strong><br>
 npm start</p>
@@ -10,3 +10,5 @@ npm start</p>
   <li>Node</li>
   <li>Github API</li>
 </ul>
+
+![](React-Recording.gif)
